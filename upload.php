@@ -76,7 +76,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                 echo '<script language="JavaScript">;alert("Registered successfully");location.href="upload.php";</script>;';
                 exit();
             } else{
-                echo "<script> alert('改用户名已存在请输入其他用户名');</script>";
+                echo "<script> alert('The user name already exists. Please enter another user name');</script>";
             }
         }
          
