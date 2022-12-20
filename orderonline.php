@@ -179,7 +179,7 @@ switch($_GET["action"]) {
 			<div class="top-menu">
 				<div class="row">
 					<div class="col-xs-2">
-						<img src='images/logo01.png' class="col-xs-10">
+						<img src='images/logo01.png' width="150">
 					</div>
 					<div class="col-xs-10 text-right menu-1">
                         <ul>
