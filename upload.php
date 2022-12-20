@@ -165,7 +165,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 			<div class="top-menu">
 			<div class="row">
 					<div class="col-xs-2">
-						<img src='images/logo01.png' class="col-xs-10">
+						<img src='images/logo01.png' width="150">
 						<!--<div id="fh5co-logo"><a href="index.html">bread</a></div>-->
 					</div>
 					<div class="col-xs-10 text-right menu-1">
